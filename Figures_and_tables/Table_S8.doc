@@ -1,0 +1,11 @@
+
+<table style="text-align:center"><tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">term</td><td>estimate</td><td>std.error</td><td>statistic</td><td>p.value</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">(Intercept)</td><td>0.3007</td><td>0.2357</td><td>1.2758</td><td>0.2084</td></tr>
+<tr><td style="text-align:left">t</td><td>-0.3932</td><td>0.0280</td><td>-14.0198</td><td>0</td></tr>
+<tr><td style="text-align:left">F</td><td>-0.0438</td><td>0.3086</td><td>-0.1418</td><td>0.8879</td></tr>
+<tr><td style="text-align:left">C</td><td>0.0237</td><td>0.0550</td><td>0.4302</td><td>0.6690</td></tr>
+<tr><td style="text-align:left">t:F</td><td>0.3429</td><td>0.0303</td><td>11.3107</td><td>0</td></tr>
+<tr><td style="text-align:left">t:C</td><td>-0.0420</td><td>0.0059</td><td>-7.1500</td><td>0</td></tr>
+<tr><td style="text-align:left">F:C</td><td>0.0478</td><td>0.0735</td><td>0.6500</td><td>0.5189</td></tr>
+<tr><td style="text-align:left">t:F:C</td><td>0.0259</td><td>0.0065</td><td>3.9779</td><td>0.0002</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr></table>
